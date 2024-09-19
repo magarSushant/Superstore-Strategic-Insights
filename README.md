@@ -51,9 +51,9 @@ The dataset was sourced from Kaggle and includes key metrics such as order infor
 3. **View the Report**: Access the full report for a detailed breakdown of findings, recommendations, and analysis.
 
 ## Project Resources
-- **Final Report (PDF)**: A detailed report summarizing the findings, recommendations, and business implications of the analysis.
-- **Python Scripts**: All preprocessing and analysis steps are documented with comments for ease of replication.
-- **Datasets**: The Superstore dataset from Kaggle is included for reference and further exploration.
+- [**Final Report (PDF)**](https://github.com/magarSushant/Superstore-Strategic-Insights/blob/main/Superstore%20Analytics%20Report.pdf): A detailed report summarizing the findings, recommendations, and business implications of the analysis.
+- [**Python Scripts**](https://github.com/magarSushant/Superstore-Strategic-Insights/blob/main/superstoredatasetscripts.py): All preprocessing, analysis steps and visualisation steps are documented with comments for ease of replication.
+- [**Dataset (Kaggle)**](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final): The Superstore dataset from Kaggle is included for reference and further exploration.
 
 ## Conclusion
 The analysis provided critical insights into optimizing the Superstore's product portfolio, improving regional performance, and enhancing customer engagement. By leveraging descriptive analytics, the project delivers actionable recommendations for driving profitability and strengthening the Superstore's competitive advantage.
